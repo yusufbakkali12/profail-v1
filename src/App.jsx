@@ -22,6 +22,7 @@ const App=()=> {
         <Header modeCourrent={getMode}/>
         <About/>
         {/* <Skills/> */}
+        {/* <Skills/> */}
         <Projects/>       
         <Contact/>
         <Footer/>
