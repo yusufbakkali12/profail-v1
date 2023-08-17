@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/profail-v1/static/js/main.65f12df0.js",
+    "static/css/844.18ea6b93.chunk.css": "/profail-v1/static/css/844.18ea6b93.chunk.css",
+    "static/js/844.f12c55e3.chunk.js": "/profail-v1/static/js/844.f12c55e3.chunk.js",
+    "static/js/767.f07d6bf0.chunk.js": "/profail-v1/static/js/767.f07d6bf0.chunk.js",
+    "index.html": "/profail-v1/index.html",
+    "main.65f12df0.js.map": "/profail-v1/static/js/main.65f12df0.js.map",
+    "844.18ea6b93.chunk.css.map": "/profail-v1/static/css/844.18ea6b93.chunk.css.map",
+    "844.f12c55e3.chunk.js.map": "/profail-v1/static/js/844.f12c55e3.chunk.js.map",
+    "767.f07d6bf0.chunk.js.map": "/profail-v1/static/js/767.f07d6bf0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.65f12df0.js"
+  ]
+}
