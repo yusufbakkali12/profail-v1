@@ -14,23 +14,23 @@ const Footer = () => {
           <p className="footer__text">
             <a rel="noreferrer" href="#!" target="_blank">
               <i className="fa fa-twitter fa-inverse"></i>
-              <p style={{fontSize:"12px",paddingTop:"0.5rem"}}>Twitter </p> 
+              <p style={{fontSize:"12px",paddingTop:"0.5rem"}}>Twitter</p> 
             </a>
           </p>
           <p className="footer__text">
-            <a rel="noreferrer" href="#!" target="_blank">
+            <a rel="noreferrer" href="https://www.linkedin.com/in/bakysf" target="_blank">
               <i className="fa fa-linkedin fa-inverse"></i>
               <p style={{fontSize:"12px",paddingTop:"0.5rem"}} >Linkedin</p> 
             </a>
           </p>
           <p className="footer__text">
-            <a rel="noreferrer" href="#!" target="_blank">
+            <a rel="noreferrer" href="https://facebook.com/bakysf" target="_blank">
               <i className="fa fa-facebook fa-inverse"></i>
               <p style={{fontSize:"12px",paddingTop:"0.5rem"}}>Facebook</p> 
             </a>
           </p>
           <p className="footer__text">
-            <a rel="noreferrer" href="#!" target="_blank">
+            <a rel="noreferrer" href="https://github.com/bakkaliYoussef" target="_blank">
               <i className="fa fa-github fa-inverse "></i>
               <p style={{fontSize:"12px",paddingTop:"0.5rem"}}>github</p> 
             </a>
@@ -38,7 +38,7 @@ const Footer = () => {
           
         </div>
         <hr />
-        <p className="footer__text">© 2023 - Template developed by <a rel="noreferrer" href="https://github.com/cobiwave" target="_blank">Bakkali Youssef</a></p>  
+        <p className="footer__text">© 2023 - Template developed by <a rel="noreferrer" href="https://github.com/bakkaliYoussef" target="_blank">Bakkali Youssef</a></p>  
       </div>
     </footer>
   )

@@ -47,7 +47,7 @@ function About() {
                   rel="noreferrer"
                   target="_blank"
                   className="cta-btn cta-btn--resume"
-                  href="./assets/resume.pdf">
+                  href="./img/bakkali_youssef_CV.pdf">
                   View Resume
                 </a>
               </span>
