@@ -30,11 +30,17 @@
     },
     {
       "_id": 3,
-      "title": "Project Title",
-      "discription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Excepturi neque, ipsa animi maiores repellendus distinctio aperiam earum dolor voluptatum consequatur blanditiis inventore debitis fuga numquam voluptate ex architecto itaque molestiae.",
-      "url_see": "#",
-      "url_source": "#",
-      "url_img": ["./img/project.jpg"]
+      "title": "Intro section with dropdown navigation",
+      "discription": "LThis challenge will test your ability to create dropdown navigation menus, a common pattern on larger sites. It will also provide some nice basic layout challenges",
+      "url_see": "https://yusufbakkali12.github.io/Intro-section-with-dropdown-navigation/",
+      "url_source": "https://github.com/yusufbakkali12/Intro-section-with-dropdown-navigation",
+      "url_img": [
+        "./img/project3/active-states.jpg",
+        "./img/project3/desktop-preview.jpg",
+        "./img/project3/mobile-design.jpg",
+        "./img/project3/mobile-menu-expanded.jpg"
+    
+    ]
     },
     {
       "_id": 4,
@@ -48,7 +54,7 @@
       "_id": 5,
       "title": "Multi-step form",
       "discription": "An excellent test for your form-building and JS skills, this project will pose many challenges along the way to completion.",
-      "url_see": "file:///C:/Users/Bakkali%20Youssef/Desktop/REACT/multi-step-form-main%20solution/index.html",
+      "url_see": "#",
       "url_source": "#",
       "url_img": [
         "./img/project1/desktop-design-step-2-monthly.jpg",
