@@ -1,19 +1,24 @@
 import React, { useState } from "react";
-import {Header, About,Skills, Projects, Contact ,Footer} from './components/index';
-import './index.css';
+
+import {Header, 
+  About,
+  // Skills, 
+  Projects, 
+  Contact ,
+  Footer} from './components/index';
 import ModeContext,{lightMode,darkMode} from "./data/ModeContext";
 
 const App=()=> {
   const [toggelBtn,setToggelBtn]=useState(false);
   const [mode,setMode]=useState({lightMode});
  
-  const chageMode=()=>{
+  const changeMode=()=>{
     setMode(toggelBtn===true?lightMode:darkMode)  
   }
   // getMode function for passing state of Headr cop childe to App cop parent
   const getMode=(e)=>{
     setToggelBtn(e)
-    chageMode()
+    changeMode()
   }
 
   return (

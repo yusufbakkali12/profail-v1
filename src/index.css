@@ -1,3 +1,4 @@
+
 @charset "UTF-8";
 /*!
 * Bootstrap v5.0.2 (https://getbootstrap.com/)
@@ -2116,7 +2117,7 @@ textarea.form-control-lg {
   -moz-appearance: none;
   appearance: none;
   -webkit-print-color-adjust: exact;
-  color-adjust: exact;
+  /* color-adjust: exact; */
 }
 
 .form-check-input[type=checkbox] {

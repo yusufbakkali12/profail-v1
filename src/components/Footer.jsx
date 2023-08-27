@@ -11,30 +11,30 @@ const Footer = () => {
         </a>
         <div className="social-links ">
          
-          <p className="footer__text">
+          <div className="footer__text">
             <a rel="noreferrer" href="#!" target="_blank">
               <i className="fa fa-twitter fa-inverse"></i>
               <p style={{fontSize:"12px",paddingTop:"0.5rem"}}>Twitter</p> 
             </a>
-          </p>
-          <p className="footer__text">
+          </div>
+          <div className="footer__text">
             <a rel="noreferrer" href="https://www.linkedin.com/in/bakysf" target="_blank">
               <i className="fa fa-linkedin fa-inverse"></i>
               <p style={{fontSize:"12px",paddingTop:"0.5rem"}} >Linkedin</p> 
             </a>
-          </p>
-          <p className="footer__text">
+          </div>
+          <div className="footer__text">
             <a rel="noreferrer" href="https://facebook.com/bakysf" target="_blank">
               <i className="fa fa-facebook fa-inverse"></i>
               <p style={{fontSize:"12px",paddingTop:"0.5rem"}}>Facebook</p> 
             </a>
-          </p>
-          <p className="footer__text">
+          </div>
+          <div className="footer__text">
             <a rel="noreferrer" href="https://github.com/bakkaliYoussef" target="_blank">
               <i className="fa fa-github fa-inverse "></i>
               <p style={{fontSize:"12px",paddingTop:"0.5rem"}}>github</p> 
             </a>
-          </p>
+          </div>
           
         </div>
         <hr />

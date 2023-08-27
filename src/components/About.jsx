@@ -40,14 +40,15 @@ function About() {
               </h1>
               <p className="about-wrapper__info-text text-start">
               I enjoy engaging in hobbies such as chess, basketball, and football in my free time.
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis officiis dolore blanditiis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa accusamus quasi voluptatibus quisquam libero illum quia laudantium.
+              
               </p>
               <span className="d-flex mt-3">
                 <a
                   rel="noreferrer"
                   target="_blank"
+                  download="bakkali_youssef_CV"
                   className="cta-btn cta-btn--resume"
-                  href="./img/bakkali_youssef_CV.pdf">
+                  href="./img/CV_BAKKALI_YOUSSEF.pdf">
                   View Resume
                 </a>
               </span>

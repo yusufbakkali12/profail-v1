@@ -1,5 +1,4 @@
 import React,{useContext, useEffect} from "react";
-// Import Swiper React components
 import ModeContext from '../data/ModeContext';
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
