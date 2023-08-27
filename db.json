@@ -30,25 +30,29 @@
     },
     {
       "_id": 3,
-      "title": "Intro section with dropdown navigation",
-      "discription": "LThis challenge will test your ability to create dropdown navigation menus, a common pattern on larger sites. It will also provide some nice basic layout challenges",
-      "url_see": "https://yusufbakkali12.github.io/Intro-section-with-dropdown-navigation/",
-      "url_source": "https://github.com/yusufbakkali12/Intro-section-with-dropdown-navigation",
+      "title": "News homepage",
+      "discription": "This news homepage will be an excellent opportunity to practice your CSS Grid skills. There will be lots of tricky decisions to make and plenty of learning opportunities!   ",
+      "url_see": "https://yusufbakkali12.github.io/news-homepage/",
+      "url_source": "https://github.com/yusufbakkali12/news-homepage",
       "url_img": [
-        "./img/project3/active-states.jpg",
-        "./img/project3/desktop-preview.jpg",
-        "./img/project3/mobile-design.jpg",
-        "./img/project3/mobile-menu-expanded.jpg"
-    
-    ]
+        "./img/project4/active-states.jpg",
+        "./img/project4/desktop-design.jpg",
+        "./img/project4/desktop-preview.jpg"
+      ]
+
     },
     {
       "_id": 4,
-      "title": "Project Title",
-      "discription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendus distinctio aperiam earum dolor voluptatum consequatur blanditiis inventore debitis fuga numquam voluptate ex architecto itaque molestiae.",
+      "title": "Intro section with dropdown navigation",
+      "discription": " LThis challenge will test your ability to create dropdown navigation menus, a common pattern on larger sites. It will also provide some nice basic layout challenges",
       "url_see": "#",
       "url_source": "#",
-      "url_img": ["./img/project.jpg"]
+      "url_img":[
+        "./img/project3/active-states.jpg",
+        "./img/project3/desktop-preview.jpg",
+        "./img/project3/desktop-design.jpg"
+    
+    ] 
     },
     {
       "_id": 5,
