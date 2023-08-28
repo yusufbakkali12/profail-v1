@@ -20,12 +20,11 @@
       "url_see": "https://yusufbakkali12.github.io/Sunnyside-agency-landing-page/",
       "url_source": "https://github.com/yusufbakkali12/Sunnyside-agency-landing-page",
       "url_img": [
-        "./img/project2/desktop-preview.jpg",
-        "./img/project2/active-states1.jpg",
-        "./img/project2/active-states2.jpg",
-        "./img/project2/active-states3.jpg",
-        "./img/project2/active-states4.jpg",
-        "./img/project2/active-states5.jpg"
+       
+        "./img/project2/1.jpg",
+        "./img/project2/2.jpg",
+        "./img/project2/3.jpg"
+
       ]
     },
     {
@@ -35,9 +34,10 @@
       "url_see": "https://yusufbakkali12.github.io/news-homepage/",
       "url_source": "https://github.com/yusufbakkali12/news-homepage",
       "url_img": [
-        "./img/project4/active-states.jpg",
-        "./img/project4/desktop-design.jpg",
-        "./img/project4/desktop-preview.jpg"
+        "./img/project3/1.jpg",
+        "./img/project3/2.jpg",
+        "./img/project3/3.jpg"
+        
       ]
 
     },
@@ -48,9 +48,9 @@
       "url_see": "#",
       "url_source": "#",
       "url_img":[
-        "./img/project3/active-states.jpg",
-        "./img/project3/desktop-preview.jpg",
-        "./img/project3/desktop-design.jpg"
+        "./img/project4/1.jpg",
+        "./img/project4/2.jpg",
+        "./img/project4/3.jpg"
     
     ] 
     },
@@ -58,8 +58,8 @@
       "_id": 5,
       "title": "Multi-step form",
       "discription": "An excellent test for your form-building and JS skills, this project will pose many challenges along the way to completion.",
-      "url_see": "#",
-      "url_source": "#",
+      "url_see": "https://yusufbakkali12.github.io/multi-step-form-main/",
+      "url_source": "https://github.com/yusufbakkali12/multi-step-form-main",
       "url_img": [
         "./img/project1/desktop-design-step-2-monthly.jpg",
         "./img/project1/active-states-step-1.jpg",
