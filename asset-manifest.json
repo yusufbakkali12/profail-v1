@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/profail-v1/static/css/main.cd6a957b.css",
-    "main.js": "/profail-v1/static/js/main.bb9089f7.js",
+    "main.css": "/profail-v1/static/css/main.d4a0c2ba.css",
+    "main.js": "/profail-v1/static/js/main.866c0a2b.js",
     "static/css/977.d8ab1efb.chunk.css": "/profail-v1/static/css/977.d8ab1efb.chunk.css",
-    "static/js/977.a61bd6c9.chunk.js": "/profail-v1/static/js/977.a61bd6c9.chunk.js",
-    "static/js/476.0ca08610.chunk.js": "/profail-v1/static/js/476.0ca08610.chunk.js",
+    "static/js/977.732cfb58.chunk.js": "/profail-v1/static/js/977.732cfb58.chunk.js",
+    "static/js/758.41af6a62.chunk.js": "/profail-v1/static/js/758.41af6a62.chunk.js",
     "index.html": "/profail-v1/index.html",
-    "main.cd6a957b.css.map": "/profail-v1/static/css/main.cd6a957b.css.map",
-    "main.bb9089f7.js.map": "/profail-v1/static/js/main.bb9089f7.js.map",
+    "main.d4a0c2ba.css.map": "/profail-v1/static/css/main.d4a0c2ba.css.map",
+    "main.866c0a2b.js.map": "/profail-v1/static/js/main.866c0a2b.js.map",
     "977.d8ab1efb.chunk.css.map": "/profail-v1/static/css/977.d8ab1efb.chunk.css.map",
-    "977.a61bd6c9.chunk.js.map": "/profail-v1/static/js/977.a61bd6c9.chunk.js.map",
-    "476.0ca08610.chunk.js.map": "/profail-v1/static/js/476.0ca08610.chunk.js.map"
+    "977.732cfb58.chunk.js.map": "/profail-v1/static/js/977.732cfb58.chunk.js.map",
+    "758.41af6a62.chunk.js.map": "/profail-v1/static/js/758.41af6a62.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd6a957b.css",
-    "static/js/main.bb9089f7.js"
+    "static/css/main.d4a0c2ba.css",
+    "static/js/main.866c0a2b.js"
   ]
 }
