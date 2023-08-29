@@ -13,7 +13,7 @@ const Validation = (e) => {
   }
  
   if(e.email==='' ){
-    errer.email='Name is Required!'
+    errer.email='Email is Required!'
   }else if(!email_pattern.test(e.email)){
     errer.email="Email did'nt match";
   }

@@ -16,7 +16,7 @@ const Projects = () => {
     fScrollReveal('section-title')
     const getdata = async()=> {
       await axios.get('https://yusufbakkali12.github.io/profail-v1/db.json')
-      // await axios.get('http://localhost:3000/profail-v1/db.json')
+      // await axios.get(process.env.REACT_APP_KEY_API2)
       .then(e=>setProject_data(e.data))
       .catch((e)=>setError(e.message))
       .finally(()=>setLoading(false))
@@ -39,12 +39,16 @@ const Projects = () => {
                 <h1 className="" style={{...mode.textColor}}>{error}</h1>
             </div>
             }
-          { project_data && project_data.map(e=>{ return <Project key={e._id} title={e.title} discription={e.discription} url_see={e.url_see} url_source={e.url_source} url_img={e.url_img} />})}
+          { project_data && project_data.map(e=>{ return <Project key={e._id} title={e.title} discription={e.discription} url_see={e.url_see} url_source={e.url_source} url_img={e.url_img} icon={e.icon} level={e.level} />})}
 
 
           
           {/* { Project_data && Project_data.map(e=>{ return <Project key={e.id} title={e.title} discription={e.discription} url_see={e.url_see} url_source={e.url_source} url_img={e.url_img} />})} */}
 
+            {/* <div className='mt-5'>
+              <button className='btn border rounded-circle fs-2'>👈</button>
+              <button className='btn border rounded-circle fs-2 '>👉</button>
+            </div> */}
         </div>
       </div>
     </section>

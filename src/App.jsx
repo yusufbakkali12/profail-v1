@@ -1,16 +1,23 @@
-import React, { useState } from "react";
-
+import React, { useState  } from "react";
+import ReactGA from "react-ga4"
+import ModeContext,{lightMode,darkMode} from "./data/ModeContext";
 import {Header, 
   About,
   // Skills, 
   Projects, 
   Contact ,
   Footer} from './components/index';
-import ModeContext,{lightMode,darkMode} from "./data/ModeContext";
+  const TRACKING_ID = "G-DJQZ3M266H"
+  ReactGA.initialize(TRACKING_ID)
 
+  ReactGA.send({
+    hilType:'pageview',
+    page:window.location.pathname
+  })
 const App=()=> {
   const [toggelBtn,setToggelBtn]=useState(false);
   const [mode,setMode]=useState({lightMode});
+  
  
   const changeMode=()=>{
     setMode(toggelBtn===true?lightMode:darkMode)  
