@@ -15,8 +15,8 @@ const Projects = () => {
   useEffect(()=>{
     fScrollReveal('section-title')
     const getdata = async()=> {
-      await axios.get('https://yusufbakkali12.github.io/profail-v1/db.json')
-      // await axios.get(process.env.REACT_APP_KEY_API2)
+      // await axios.get('https://yusufbakkali12.github.io/profail-v1/db.json')
+      await axios.get(process.env.REACT_APP_KEY_API1)
       .then(e=>setProject_data(e.data))
       .catch((e)=>setError(e.message))
       .finally(()=>setLoading(false))
@@ -26,10 +26,10 @@ const Projects = () => {
 
 
   return (
-    <section id="projects" style={{...mode.bgColor}}>
+    <section id="projects"  style={{...mode.bgColor}}>
       <div className="container">
         <div className="project-wrapper">
-          <h2 className="section-title " style={{...mode.textColor}}>Projects</h2>
+          <h2 className="section-title " style={{...mode.textColor}}>My Projects</h2>
         
           {loading && <div className="spinner-border " width="3" height="3px" style={{width:"8rem",height:"8rem",...mode.textColor}}  role="status">
                           <span className="visually-hidden">Loading...</span>

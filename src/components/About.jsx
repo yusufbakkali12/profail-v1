@@ -31,12 +31,13 @@ function About() {
         <h2 className="section-title " >About me</h2>
         <div className="row about-wrapper">
           <div className="col-md-4 col-sm-12 about-wrapper__image load-hidden">
-            <Titl className="rounded rounded-4 border border-5 w-auto p-0" >
+            <Titl className="rounded-2rem border-0 w-auto p-0" >
               <img
                 alt="Profile"
-                className=" shadow-lg    border-light  "
+                loading='lazy'
+                className=" shadow-lg  border-dark border-2 border rounded-2rem "
                 height="400"
-                src="./img/profile.jpeg"
+                src="./img/photoProfail.jpeg"
                 type="image"
                 />
             </Titl>
@@ -47,11 +48,20 @@ function About() {
               <h1 className="about-wrapper__info-text text-start">
               I am a full stack junior developer with experience in JavaScript, ReactJS, PHP Laravel, MySQL No-SQL, Bootstrap, Tailwindcss.
               </h1>
-              <p className="about-wrapper__info-text text-start">
-              I enjoy engaging in hobbies such as chess, basketball, and football in my free time.
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis eius ad repellendus saepe, quos qui quod tempore laborum illo consectetur non, sed, amet temporibus quidem eaque ullam pariatur est explicabo accusantium. Quia sunt officiis ipsa suscipit? Sed nulla ut accusantium, possimus eveniet doloremque nostrum, quae harum molestias suscipit error excepturi.
-             
-              </p> 
+              <div className="about-wrapper__info-text text-start">
+             <p>
+              I enjoy creating things that live on the internet whether that be websites application or anything in between My gool is to always build products that provide pixel-perfect , performant experiences.
+             </p>
+<p>
+familiarity with front End intermadier level programming sush as HTML CSS ReactJS ,and JSON server side cpding skills Node js and Php Frameworks(Express js Laravel).
+</p>
+<p>
+Understanding of data structures algorithms including data migration, transformation and analysis Deploying ,managing ,and operating scalable highly available and fault tolerant on AWS,
+</p>
+<p>
+Excellent communication skills on both french and English 
+</p>
+              </div> 
         
               <span  className="d-flex mt-3">
                 <a

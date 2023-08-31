@@ -52,7 +52,7 @@ const Contact = () => {
 
   return (
     <section id="contact" style={{...mode.bgColorSuc}}>
-      <div className=" mx-sm-auto text-center borderRadius mx-4  p-3 w-sm-75 w-lg-50  p-sm-4  mb-4 bg-body   px-md-5" >
+      <div className=" mx-sm-auto text-center borderRadius mx-4   w-sm-75 w-lg-50 p-4   mb-4 bg-body   px-md-5" >
         <h2  className="section-title  text-color-main mb-1">Contact</h2>
         <form className='mx-auto ' target="_blank" onSubmit={handlSubmait} >
           <input type="hidden" name='_captcha' value={false} />
