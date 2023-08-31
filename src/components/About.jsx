@@ -45,22 +45,22 @@ function About() {
           </div>
           <div className="col-md-8 col-sm-12">
             <div className="about-wrapper__info load-hidden">
-              <h1 className="about-wrapper__info-text text-start">
-              I am a full stack junior developer with experience in JavaScript, ReactJS, PHP Laravel, MySQL No-SQL, Bootstrap, Tailwindcss.
-              </h1>
+              {/* <h1 className="about-wrapper__info-text text-start">
+                I am a full stack junior developer with experience in JavaScript, ReactJS, PHP Laravel, MySQL No-SQL, Bootstrap, Tailwindcss.
+              </h1> */}
               <div className="about-wrapper__info-text text-start">
-             <p>
-              I enjoy creating things that live on the internet whether that be websites application or anything in between My gool is to always build products that provide pixel-perfect , performant experiences.
-             </p>
-<p>
-familiarity with front End intermadier level programming sush as HTML CSS ReactJS ,and JSON server side cpding skills Node js and Php Frameworks(Express js Laravel).
-</p>
-<p>
-Understanding of data structures algorithms including data migration, transformation and analysis Deploying ,managing ,and operating scalable highly available and fault tolerant on AWS,
-</p>
-<p>
-Excellent communication skills on both french and English 
-</p>
+                  <p>
+                    I enjoy creating things that live on the internet whether that be websites application or anything in between My gool is to always build products that provide pixel-perfect , performant experiences.
+                  </p>
+                  <p>
+                      familiarity with front End intermadier level programming sush as HTML CSS ReactJS ,and JSON server side cpding skills Node js and Php Frameworks(Express js Laravel).
+                  </p>
+                  <p>
+                      Understanding of data structures algorithms including data migration, transformation and analysis Deploying ,managing ,and operating scalable highly available and fault tolerant on AWS,
+                  </p>
+                  <p>
+                    Excellent communication skills on both french and English 
+                  </p>
               </div> 
         
               <span  className="d-flex mt-3">
