@@ -15,7 +15,7 @@ const Projects = () => {
   useEffect(()=>{
     fScrollReveal('section-title')
     const getdata = async()=> {
-      await axios.get('https://yusufbakkali12.github.io/profail-v1/db.json')
+      await axios.get('https://bakkali.dev/db.json')
       // await axios.get('http://localhost:3000/profail-v1/db.json')
       .then(e=>setProject_data(e.data))
       .catch((e)=>setError(e.message))
