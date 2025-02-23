@@ -1,4 +1,4 @@
-# Live portfolio link:  https://yusufbakkali12.github.io/profail-v1/
+# Live portfolio link:  https://bakkali.dev
 
 # Getting Started with Create React App
 
